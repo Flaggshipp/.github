@@ -1,4 +1,5 @@
-## Hi there 👋
+# This is Flaggshipp.
+## A PSVita Addon and Android Custom Rom Developing Organization
 
 <!--
 
