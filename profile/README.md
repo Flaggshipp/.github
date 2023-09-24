@@ -1,5 +1,7 @@
 # This is Flaggshipp.
 ## A PSVita Addon and Android Custom Rom Developing Organization
+##
+## ![Flaggshipp Logo]([http://flaggshipp.org/Logo4_4.jpeg "Flaggshipp Logo")
 
 <!--
 
