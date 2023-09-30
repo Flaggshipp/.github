@@ -8,6 +8,6 @@
 ##
 # We are looking for people in these fields of activity
 ## -UI/UX Designer (xml, Figma)
-## -Main Frontend and Backend Developer (C, C++, C#, Makefile, Java, Kotlin, more)
+## -Frontend and Backend Developer (C, C++, C#, Makefile, Java, Kotlin, more)
 ## -Video Editor and Social Media Manager
 # Interested? Then just write to me info@flaggshipp.org
