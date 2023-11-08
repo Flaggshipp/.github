@@ -34,3 +34,5 @@ What we offer:
 - The chance to create something great without financial constraints.
 
 Ready for the adventure? If you're ready to explore the world of software development and gaming with us, send us your application! Show us why you're the perfect addition to our team. We're eager to hear your ideas and enthusiasm!
+
+## [Contact Us](mailto:info@flaggshipp.org)
